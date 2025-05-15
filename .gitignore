@@ -1,0 +1,4 @@
+credentials.json
+*.json
+# oder spezifisch:
+Reservierungsystem 1.4/Reservierungsystem 1.4/bin/Debug/net8.0-windows/credentials.json
